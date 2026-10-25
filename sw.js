@@ -1,5 +1,6 @@
-// Grimoire Companion service worker — offline-first cache for the single-file app.
-const CACHE = 'grimoire-companion-v1';
+// Grimoire Companion service worker v2.3, 2026-10-25
+// Grimoire Companion service worker, offline-first cache for the single-file app.
+const CACHE = 'grimoire-companion-v2.3';
 const ASSETS = [
   './',
   './index.html',
